@@ -1,2 +1,2 @@
-# Basic Card Game
- A basic card made in c# and unity
+# Basic-Card-Game
+ A basic card game made in c# and unity
